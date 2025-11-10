@@ -3,6 +3,8 @@
 ## Github links for this Training
 
 1. <a href=https://github.com/kmitsolution/Python> Python </a>
+    <a href=https://www.devopsworld.co.in/2025/11/python-quiz-for-beginners.html> Python Quiz </a>
+2. <a href=https://www.devopsworld.co.in/p/git-commands.html> Git </a>    
 
 ## Weekwise Schedule
 
