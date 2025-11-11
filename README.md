@@ -1,4 +1,4 @@
-# DevOps_Azure_Terraform_Python_CourseOutline
+# DevOps_Azure_Terraform_Python_CourseOutline:
 
 ## Github links for this Training
 
