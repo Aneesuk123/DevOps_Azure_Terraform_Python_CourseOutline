@@ -14,6 +14,10 @@
 
     <a href=https://www.devopsworld.co.in/2024/11/az-900.html> Azure Fundamental Quiz </a>
 
+4.   <a href=https://devopsworld.co.in> Terraform </a>
+
+     <a href=https://www.devopsworld.co.in/2025/11/terraform-quiz.html> Terraform Quiz </a>
+
 ## Weekwise Schedule
 
 ##### Week 1 ( 4 days Python 1 day git) 
