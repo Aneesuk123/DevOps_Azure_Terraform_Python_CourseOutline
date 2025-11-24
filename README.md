@@ -18,7 +18,11 @@
 
      <a href=https://www.devopsworld.co.in/2025/11/terraform-quiz.html> Terraform Quiz </a>
 
-5. <a href=https://www.devopsworld.co.in/p/docker-tutorials.html>Docker Tutorial </a>     
+5. <a href=https://www.devopsworld.co.in/p/docker-tutorials.html>Docker Tutorial </a>
+
+      <a href=https://www.devopsworld.co.in/2020/06/docker-quiz-for-you.html> Docker Quiz </a>
+
+6. <a href=https://www.devopsworld.co.in/p/kubernetes-tutorials.html> Kubernetes Tutorials </a>
 
 ## Weekwise Schedule
 
