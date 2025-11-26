@@ -24,6 +24,10 @@
 
 6. <a href=https://www.devopsworld.co.in/p/kubernetes-tutorials.html> Kubernetes Tutorials </a>
 
+      <a href=https://www.devopsworld.co.in/2020/07/kubernetes-quiz-1.html> Kubernetes Quiz 1 </a>
+
+7. <a href=https://github.com/kmitsolution/GitHubAction > Github Action Tutorial </a>      
+
 ## Weekwise Schedule
 
 ##### Week 1 ( 4 days Python 1 day git) 
