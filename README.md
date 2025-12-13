@@ -1,5 +1,14 @@
 # DevOps_Azure_Terraform_Python_CourseOutline:
 
+<a href=https://github.com/kmitsolution/Terraform/tree/main/00_TestYourSelf> Terraform with Azure Questions </a>
+
+<a href=https://github.com/kmitsolution/GitHubAction/blob/main/00_InterviewQuestions.md> Github Actions Questions </a>
+
+<a href=https://github.com/kmitsolution/Azure/tree/main/InterviewPrepration> Azure Questions </a>
+
+<a href=https://github.com/kmitsolution/Docker/blob/main/Quiz/interviewquestions.md> Docker Kubernetes </a>
+
+
 ## Github links for this Training
 
 1. <a href=https://github.com/kmitsolution/Python> Python </a>
